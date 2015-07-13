@@ -8,7 +8,7 @@
     ...
 
 ### **How does it work?**
-![SFDC Execution Order](https://raw.githubusercontent.com/mixiaopa/mixiaopa.github.io/master/SFDC%20Sessions/pics/SFDC%20Order%20big%20pic.png)
+![SFDC Execution Order](https://raw.githubusercontent.com/mixiaopa/SalesforceSession/master/SFDC%20Execution%20Order/pics/SFDC%20Order%20big%20pic.png)
 
 
 ### **When should I use it?**
